@@ -1,19 +1,3 @@
-./ValidPhoneNumber.sh
-./ValidPhoneNumber.sh PhoneNumbers.txt
-ls
-cd Assignments
-ls
-vi DataRangeInFile.sh
-chmod u+x DataRangeInFile.sh
-vi DataRangeInFile.sh
-./DataRangeInFile.sh
-vi DataRangeInFile.sh
-./DataRangeInFile.sh
-vi DataRangeInFile.sh
-./DataRangeInFile.sh
-vi DataRangeInFile.sh
-./DataRangeInFile.sh
-vi DataRangeInFile.sh
 ./DataRangeInFile.sh
 vi DataRangeInFile.sh
 ./DataRangeInFile.sh
@@ -998,3 +982,19 @@ git push origin
 git add .
 git commit -m "Unix Scripts in "
 ls
+cd Assignments/
+ls
+git init
+git clone https://github.com/sai486/Unix.git
+git add .
+git commit "hello"
+git commit -m "hello"
+cd ..
+git init
+git add .
+git status
+git add *
+git commit -m "addingdata"
+git push 
+git push origin https://github.com/sai486/Unix.git
+git push https://github.com/sai486/Unix.git
