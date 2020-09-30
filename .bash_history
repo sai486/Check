@@ -1,117 +1,3 @@
-./DataRangeInFile.sh
-vi DataRangeInFile.sh
-./DataRangeInFile.sh
-vi DataRangeInFile.sh
-./DataRangeInFile.sh
-vi CharacterCheck.sh
-chmod u+x CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi NumberCountInFile.sh
-ls
-cd Assignments
-ls -lrt
-vi ChangeCase.sh
-./ChangeCase.sh
-ls 
-cd Assignments
-ls
-cat ChangeCase.sh
-vi ChangeCase.sh
-./ChangeCase.sh
-man tr
-vi ChangeCase.sh
-man tr
-vi ChangeCase.sh
-./ChangeCase.sh
-man sed
-clear
-ls -lrt
-vi CHaracterCheck.sh
-ls -lrt
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
- echo user | sed 's/./& /g
-'
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-vi CharacterCheck.sh
-./CharacterCheck.sh
-ls -lrt
-cd SCK
-ls
-ls -lrt
-cd ..
-vi TaskScript.sh
-vi CharacterCheck.sh
-man awk
-vi CharacterCheck.sh
-man index
-man awk
-ls -lrt
-vi DataRangeInFile.sh
-cat PhoneNumber.txt | head -1 | tail
-cat PhoneNumbers.txt | head -1 | tail
-cat PhoneNumbers.txt | head -1 | tail -1
-cat PhoneNumbers.txt | head | tail -1
-cat PhoneNumbers.txt | head -6 | tail -1
-ls -lrt
-vi RemoveSplChar.sh
-vi ValidPhoneNumber.sh
-./ValidPhoneNumber.sh PhoneNumbers.txt
-vi ValidPhoneNumber.sh
-./ValidPhoneNumber.sh PhoneNumbers.txt
-vi ValidPhoneNumber.sh
-./ValidPhoneNumber.sh PhoneNumbers.txt
-cat PhoneNumbers.txt
-vi ValidPhoneNumber.sh
-./ValidPhoneNumber.sh PhoneNumbers.txt
-vi ValidPhoneNumber.sh
-sed 's/[!@#\$%^&*(){}!;.><|]//g' wc's/[!@#\$%^&*(){}!;.><|]//g' wc
-sed 's/[!@#\$%^&*(){}!;.><|]//g' wc
-sed 's/[!@#\$%^&*(){}!;.><|]/1234567890/g'
-sed 's/'^(\d{3}-\d{3}-\d{4}|\d{3}\d{3}\d{4})$'/1234567890/g'
-sed 's/`^(\d{3}-\d{3}-\d{4}|\d{3}\d{3}\d{4})$`/1234567890/g'
-clear
-ls -lrt
-vi ValidPhoneNumber.sh
-vi TEST.sh
-chmod u+x TEST.sh
-vi TEST.sh
-vi PhoneNumbers.txt
-./TEXT.sh PhoneNumbers.txt
-./TEST.sh PhoneNumbers.txt
-vi TEST.sh
-./TEST.sh PhoneNumbers.txt
-vi TEST.sh
-vi PhoneNumbers.txt
-./TEST.sh PhoneNumbers.txt
-vi TEST.sh
-./TEST.sh PhoneNumbers.txt
-vi TEST.sh
 ./TEST.sh PhoneNumbers.txt
 vi TEST.sh
 ./TEST.sh PhoneNumbers.txt
@@ -998,3 +884,117 @@ git commit -m "addingdata"
 git push 
 git push origin https://github.com/sai486/Unix.git
 git push https://github.com/sai486/Unix.git
+clear
+ls
+git init
+git clone https://github.com/sai486/Unix.git
+git status
+touch 1 2 3 4 5
+git status
+git add .
+git status
+git commit -m "empty files"
+git push
+git remote add origin https://github.com/sai486/Unix.git
+git push origin
+clear
+exit
+clear
+ls
+cd unix
+cd Unix
+ls
+cd ..
+cd Assignments/
+ls
+git init
+rm -rf Unix
+git init
+git add .
+git commit -m "Check"
+ls
+cd ..
+ls
+pwd
+rm -rf Unix
+ls
+mkdir gitcheck
+cd gitcheck/
+touch 1 2 3 45  6 7 7
+ls
+git init
+git add .
+git commit -m "xxxx"
+git remote add origin https://github.com/sai486/Unix.git
+git pull origin master
+git pull
+git branch --set-upstream-to=origin master
+git push origin master
+cd ..
+ls
+cd charan
+ls -lrt
+git init
+git add .
+git status
+git commit -m "Practicedata"
+git remote add origin https://github.com/sai486/Unix.git
+git pull origin master
+git push origin master
+clear
+exit
+git init
+pwd
+ls
+cd Assignments/
+ls
+git init
+git add .
+git commit -m "Homwwork"
+git remote add origin https://github.com/sai486/Unix.git
+git remote add origin1 https://github.com/sai486/Unix.git
+git pull origin1 master
+git push origin1 master
+git pull origin1 master
+git clone [ks20111@localhost ~]$ ls
+git clone https://github.com/sai486/Unix UnixExamples
+cd UnixExamples/
+l
+ls
+make
+cd Assignments/
+ls -lrt
+make
+vi Check.java
+make
+chmod u+x Check
+chmod u+x Check.java
+make Check
+make Check.java
+vi DownlodeDemo.sh
+git clone https://github.com/sai486/POCUnix JavaPrograms
+ls -lrt
+cd JavaPrograms/
+ls -lrt
+cd MVC
+ls -lrt
+cd ..
+make MVC
+make
+cd MVC
+make
+cd ..
+javac
+cd Assignments/
+ls
+cd JavaPrograms/
+ls
+cd M
+cd MVC/
+ls
+cd src
+ls
+cd com
+ls
+cat *.java
+javac -g *.java
