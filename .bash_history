@@ -6,8 +6,6 @@ vi TEST.sh
 vi TEST.sh
 ./TEST.sh PhoneNumbers.txt
 vi TEST.sh
-./TEST.sh PhoneNumbers.txt
-vi TEST.sh
 clear
 ./TEST.sh PhoneNumbers.txt
 vi TEST.sh
@@ -998,3 +996,5 @@ cd com
 ls
 cat *.java
 javac -g *.java
+clear
+ls
